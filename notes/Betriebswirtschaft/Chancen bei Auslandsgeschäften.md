@@ -1,10 +1,10 @@
-| **Chancen für exportierende Unternehmen** | **Chancen für die Volkswirtschaft** |
-|-------------------------------------------|------------------------------------|
+| **Chancen für exportierende Unternehmen** | **Chancen für die Volkswirtschaft**          |
+| ----------------------------------------- | -------------------------------------------- |
 | Erweiterung der Kundenbasis               | Steigerung der inländischen Produktion (BIP) |
-| Umsatzsteigerung                          | Schaffung von Arbeitsplätzen       |
-| Gewinnsteigerung                          | Mehr Aufträge für Zulieferbetriebe |
-| Skaleneffekte                             | Erhöhung der Steuereinnahmen       |
-| Unabhängigkeit vom Binnenmarkt            |                                    |
+| Umsatzsteigerung                          | Schaffung von Arbeitsplätzen                 |
+| Gewinnsteigerung                          | Mehr Aufträge für Zulieferbetriebe           |
+| Skaleneffekte                             | Erhöhung der Steuereinnahmen                 |
+| Unabhängigkeit vom Binnenmarkt            |                                              |
 ___
 **Skaleneffekte einfach erklärt:**
 

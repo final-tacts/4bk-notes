@@ -24,6 +24,7 @@ ___
 - **Preis**: Preiswettbewerb führt zur Produktion in Billiglohnländern.
 - **Angebot**: Das Internet ermöglicht weltweiten Vergleich und Kauf von Waren.
 
+___
 ### Chancen und Risiken der Globalisierung
 
 ### Chancen:
