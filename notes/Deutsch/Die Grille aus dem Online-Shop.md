@@ -21,7 +21,7 @@ ___
 
 In dem Bericht "Die Grille aus dem Online-Shop" geschrieben von Karin Schuh, erschienen am 10.1.2016 in der Tageszeitung "Die Presse" wird über die ungewöhnliche Ernährung mit Insekten und wieso diese für viele von uns normal sein lönnte berichtet.
 ___
-#### Argumente für ein Kommentar
+#### #### Argumente für ein Kommentar
 
 **Dafür:**
 - „Sie sind gesundheitlich sehr wertvoll, haben alle Aminosäuren, die der Körper gut aufnehmen kann.“ (Zeile 31)
@@ -39,4 +39,3 @@ ___
 - Die restlichen Insekten bezieht R. aus **Deutschland**. (Zeile 24)
 - Die Beschaffung von Insekten als Lebensmittel ist schwieriger als für Tierfutter, da **höhere Standards** gelten. (Zeile 25-26)
 - **Hohe Preise** erschweren den breiten Konsum und die Integration in den alltäglichen Speiseplan. (Zeile 28-29)
-

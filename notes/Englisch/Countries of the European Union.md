@@ -7,9 +7,17 @@ There are **various forms of payment** within the European Union, such as [**cro
 | High population growth            | Low/aging population growth            |
 | Environmental degradation         | Stricter environmental controls        |
 | Lower industrialization           | Highly industrialized & automated      |
+#### 1. **Income**
+- Developing countries have **lower incomes**, while developed ones are **wealthier**.
 
-- **Income**: Developing countries have lower incomes, while developed ones are wealthier.
-- **Healthcare**: Developing countries have limited access, developed countries have advanced systems.
-- **Population growth**: Developing countries experience high growth; developed countries face aging populations.
-- **Environment**: Developing nations have more degradation, developed countries have strict controls.
-- **Industrialization**: Developing countries are less industrialized, while developed countries are highly automated.
+#### 2. **Healthcare**
+- Developing countries have **limited access** to healthcare, while developed countries have **advanced systems**.
+
+#### 3. **Population growth**
+- Developing countries experience **high population growth**, whereas developed countries face **aging populations**.
+
+#### 4. **Environment**
+- Developing nations have more **environmental degradation**, while developed countries have **strict environmental controls**.
+
+#### 5. **Industrialization**
+- Developing countries are **less industrialized**, while developed countries are **highly automated**.
