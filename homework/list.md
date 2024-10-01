@@ -5,8 +5,8 @@ ___
 #### Mathematik
 Test am: 03.10.2024
 Du musst Kosten- und Leistungsrechnung, Investitionsrechnung, Zinsrechnung sowie den Zusammenhang von Zinssätzen und Kapitalwerten beherrschen.
-__
+___
 #### Unternehmensrechnung
 Test am: 04.10.2024
 Forderungsbewertung (einbringliche, zweifelhafte und uneinbringliche Forderungen)
-__
+___
