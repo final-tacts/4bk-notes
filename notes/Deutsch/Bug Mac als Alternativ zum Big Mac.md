@@ -15,24 +15,26 @@ Heuschrecken in verschließbaren Plastikbe-chern. Einladend übereinandergestape
 ___
 ### Argumente
 
-Argumente _dafür_:
-* **Behauptung**: Insekten sind eine umweltfreundliche Proteinquelle. 
-	**Begründung**: Sie verursachen deutlich weniger Umweltbelastungen als traditionelle Nutztiere. 
-	**Beispiel**: Grillen produzieren 100-mal weniger Treibhausgase als Rinder und benötigen nur einen Bruchteil des Landes und Wassers für die gleiche Menge an Protein.
-* **Behauptung**: Insekten sind äußerst nährstoffreich. 
-	**Begründung**: Sie enthalten oft höhere Konzentrationen an wichtigen Nährstoffen als herkömmliches Fleisch. 
-	**Beispiel**: Mehlwürmer bieten vergleichbare Proteinmengen wie Rindfleisch, weisen aber höhere Gehalte an essentiellen Aminosäuren und bestimmten Mineralstoffen auf.
-* **Behauptung**: Die Insektenzucht ist wirtschaftlich effizienter als traditionelle Viehzucht.
-	**Begründung**: Insekten wandeln Futter wesentlich effizienter in essbares Protein um. 
-	**Beispiel**: Um 1 kg essbares Gewicht zu produzieren, benötigen Grillen nur 2,1 kg Futter, während Rinder 25 kg Futter für die gleiche Menge Fleisch brauchen.
+#### Argumente _dafür_:
 
-Argumente _dagegen_:
-* **Behauptung**: In westlichen Kulturen bestehen starke Vorbehalte gegen den Verzehr von Insekten. 
-	**Begründung**: Tief verwurzelte psychologische Barrieren erschweren die Akzeptanz von Insekten als Nahrungsmittel. 
-	**Beispiel**: Viele Menschen empfinden Ekel bei dem Gedanken, Insekten zu essen, da sie diese primär als Schädlinge wahrnehmen und nicht als Nahrungsquelle.
-* **Behauptung**: Es fehlt an klaren gesetzlichen Regelungen für die Insektenproduktion als Lebensmittel. 
-	**Begründung**: Die unzureichende Regulierung behindert die Entwicklung der Branche und das Vertrauen der Verbraucher. 
-	**Beispiel**: In vielen Ländern gibt es noch keine spezifischen Hygienevorschriften oder Qualitätsstandards für die Zucht und Verarbeitung von Speiseinsekten.
-* **Behauptung**: Der Verzehr von Insekten birgt potenzielle Gesundheitsrisiken. 
-	**Begründung**: Es bestehen Unsicherheiten bezüglich allergischer Reaktionen und langfristiger gesundheitlicher Auswirkungen. 
-	**Beispiel**: Menschen mit Schalentierallergien könnten auch auf Insekten allergisch reagieren, da ähnliche Proteine vorhanden sind. Zudem sind die Langzeitfolgen eines regelmäßigen Insektenverzehrs in westlichen Populationen noch nicht ausreichend erforscht.
+- **Behauptung**: Insekten sind eine umweltfreundliche Proteinquelle.
+    - **Begründung**: Sie verursachen deutlich weniger Umweltbelastungen als traditionelle Nutztiere.
+    - **Beispiel**: Grillen produzieren 100-mal weniger Treibhausgase als Rinder und benötigen nur einen Bruchteil des Landes und Wassers für die gleiche Menge an Protein.
+- **Behauptung**: Insekten sind äußerst nährstoffreich.
+    - **Begründung**: Sie enthalten oft höhere Konzentrationen an wichtigen Nährstoffen als herkömmliches Fleisch.
+    - **Beispiel**: Mehlwürmer bieten vergleichbare Proteinmengen wie Rindfleisch, weisen aber höhere Gehalte an essentiellen Aminosäuren und bestimmten Mineralstoffen auf.
+- **Behauptung**: Die Insektenzucht ist wirtschaftlich effizienter als traditionelle Viehzucht.
+    - **Begründung**: Insekten wandeln Futter wesentlich effizienter in essbares Protein um.
+    - **Beispiel**: Um 1 kg essbares Gewicht zu produzieren, benötigen Grillen nur 2,1 kg Futter, während Rinder 25 kg Futter für die gleiche Menge Fleisch brauchen.
+
+#### Argumente _dagegen_:
+
+- **Behauptung**: In westlichen Kulturen bestehen starke Vorbehalte gegen den Verzehr von Insekten.
+    - **Begründung**: Tief verwurzelte psychologische Barrieren erschweren die Akzeptanz von Insekten als Nahrungsmittel.
+    - **Beispiel**: Viele Menschen empfinden Ekel bei dem Gedanken, Insekten zu essen, da sie diese primär als Schädlinge wahrnehmen und nicht als Nahrungsquelle.
+- **Behauptung**: Es fehlt an klaren gesetzlichen Regelungen für die Insektenproduktion als Lebensmittel.
+    - **Begründung**: Die unzureichende Regulierung behindert die Entwicklung der Branche und das Vertrauen der Verbraucher.
+    - **Beispiel**: In vielen Ländern gibt es noch keine spezifischen Hygienevorschriften oder Qualitätsstandards für die Zucht und Verarbeitung von Speiseinsekten.
+- **Behauptung**: Der Verzehr von Insekten birgt potenzielle Gesundheitsrisiken.
+    - **Begründung**: Es bestehen Unsicherheiten bezüglich allergischer Reaktionen und langfristiger gesundheitlicher Auswirkungen.
+    - **Beispiel**: Menschen mit Schalentierallergien könnten auch auf Insekten allergisch reagieren, da ähnliche Proteine vorhanden sind. Zudem sind die Langzeitfolgen eines regelmäßigen Insektenverzehrs in westlichen Populationen noch nicht ausreichend erforscht.

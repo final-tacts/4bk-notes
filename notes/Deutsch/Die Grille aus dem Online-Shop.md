@@ -28,14 +28,15 @@ ___
 - „Auch Vitamin B12, Kalzium, Magnesium und Zink sei ausreichend vorhanden, ebenso wie ungesättigte Fettsäuren.“ (Zeile 32-33)
 - „So kommt etwa das Heimchen auf einen Proteinanteil von 70 Prozent.“ (Zeile 35)
 - „Ein idealer Snack für Sportler.“ (Zeile 36)
-- Insekten als Nahrungsmittel sind eine nachhaltige Alternative zu herkömmlichen tierischen Produkten. (Zeile 9)
-- Der Verzehr von Insekten könnte die Umweltbelastung durch die Lebensmittelproduktion verringern. (Zeile 9)
-- Die Verarbeitung von Insekten erfordert hohe Qualitätsstandards und saubere Arbeitsweise, was die Sicherheit des Lebensmittels gewährleistet. (Zeile 25-26)
+- Insekten als Nahrungsmittel sind eine **nachhaltige Alternative** zu herkömmlichen tierischen Produkten. (Zeile 9)
+- Der Verzehr von Insekten könnte die **Umweltbelastung** durch die Lebensmittelproduktion verringern. (Zeile 9)
+- Die Verarbeitung von Insekten erfordert **hohe Qualitätsstandards** und saubere Arbeitsweise, was die Sicherheit des Lebensmittels gewährleistet. (Zeile 25-26)
 - „Außerdem ist der Tötungsvorgang artgerecht, indem die Tiere eingefroren werden.“ (Zeile 37)
 
 **Gegen:**
 - „Ein Kilogramm Heuschrecken kostet im Schnitt an die 300 Euro.“ (Zeile 29)
-- Insekten werden in Europa noch als exotische Lebensmittel angesehen, was ihre Akzeptanz erschwert. (Zeile 27)
-- Die restlichen Insekten bezieht R. aus Deutschland. (Zeile 24)
-- Die Beschaffung von Insekten als Lebensmittel ist schwieriger als für Tierfutter, da höhere Standards gelten. (Zeile 25-26)
-- Hohe Preise erschweren den breiten Konsum und die Integration in den alltäglichen Speiseplan. (Zeile 28-29)
+- Insekten werden in Europa noch als **exotische Lebensmittel** angesehen, was ihre Akzeptanz erschwert. (Zeile 27)
+- Die restlichen Insekten bezieht R. aus **Deutschland**. (Zeile 24)
+- Die Beschaffung von Insekten als Lebensmittel ist schwieriger als für Tierfutter, da **höhere Standards** gelten. (Zeile 25-26)
+- **Hohe Preise** erschweren den breiten Konsum und die Integration in den alltäglichen Speiseplan. (Zeile 28-29)
+
