@@ -1,9 +1,10 @@
 Ist der Zinssatz einer Investition, zu dem das investierte Kapital \( K_0 \) denselben Endwert erbringt, wie die wieder verzinsten Rückflüsse. 
-$$ 
+$$
 i_{\text{mod}} = \sqrt[n]{\frac{E_R}{K_0}} - 1 
-$$ $$ 
+$$\
+ $$ 
 E_R = \bar{Z}_1 \cdot q^{n-1} + \bar{Z}_2 \cdot q^{n-2} + \ldots + \bar{Z}_{n-1} \cdot q + \bar{Z}_n 
-$$ 
+$$\ 
 Die Investition ist sinnvoll, wenn 
 $$
 i_{\text{mod}} > i
