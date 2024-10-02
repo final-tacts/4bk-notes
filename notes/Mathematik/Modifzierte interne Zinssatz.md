@@ -3,7 +3,7 @@ $$
 i_{\text{mod}} = \sqrt[n]{\frac{E_R}{K_0}} - 1 
 $$ $$ 
 E_R = \bar{Z}_1 \cdot q^{n-1} + \bar{Z}_2 \cdot q^{n-2} + \ldots + \bar{Z}_{n-1} \cdot q + \bar{Z}_n 
-$$ \
+$$ 
 Die Investition ist sinnvoll, wenn 
 $$
 i_{\text{mod}} > i
@@ -30,8 +30,7 @@ $$
 -96.000 + \frac{39.000}{q} + \frac{44.000}{q^2} + \frac{48.000}{q^3} + \frac{36.000}{q^4} + \frac{26.000}{q^5} + \frac{16.000}{q^6} = 0
 $$
 $$ q = 1,326 \Rightarrow i = 32,6\% $$
-Ermittle den modifizierten i**nternen Zinssatz dieser Investition**, wenn die erwirtschafteten Rückflüsse nur zu einem Zinssatz von **3,5 % p.a.** angelegt werden können.\
-
+Ermittle den modifizierten i**nternen Zinssatz dieser Investition**, wenn die erwirtschafteten Rückflüsse nur zu einem Zinssatz von **3,5 % p.a.** angelegt werden können.
 
 $$ 
 i_{\text{mod}} = \sqrt[n]{\frac{E_R}{K_0}} - 1 
