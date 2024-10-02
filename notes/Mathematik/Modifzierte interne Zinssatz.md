@@ -1,4 +1,4 @@
-Ist der Zinssatz einer Investition, zu dem das investierte Kapital \( K_0 \) denselben Endwert erbringt, wie die wieder verzinsten Rückflüsse. 
+Test Ist der Zinssatz einer Investition, zu dem das investierte Kapital \( K_0 \) denselben Endwert erbringt, wie die wieder verzinsten Rückflüsse. 
 $$ 
 i_{\text{mod}} = \sqrt[n]{\frac{E_R}{K_0}} - 1 
 $$ $$ 
@@ -32,9 +32,7 @@ $$
 $$ q = 1,326 \Rightarrow i = 32,6\% $$
 Ermittle den modifizierten i**nternen Zinssatz dieser Investition**, wenn die erwirtschafteten Rückflüsse nur zu einem Zinssatz von **3,5 % p.a.** angelegt werden können.
 
-$$ 
-i_{\text{mod}} = \sqrt[n]{\frac{E_R}{K_0}} - 1 
-$$
+$$ i_{\text{mod}} = \sqrt[n]{\frac{E_R}{K_0}} - 1 $$
 $$
 i = 3,5\% \Rightarrow q = 1,035
 $$
