@@ -20,7 +20,7 @@ ___
 
 The Kapitalwert (KW) der Investition berechnet sich wie folgt:
 
-*KW = - 100.000 + 20.000 / 1,02 + 20.000 / 1,02^2 + 20.000 / 1,02^3* = **4793,78€**
+*KW = - 100.000 + 20.000 / 1,02 + 20.000 / 1,02^2 + 70.000 / 1,02^3* = **4793,78€**
 ___
 **Aufgabe:** Eine Firma plant die Anschaffung eines neuen EDV-Systems. Die angenommene Nutzungsdauer beträgt 6 Jahre und es werden in dieser Zeit die in der Tabelle angeführten Ausgaben und erzielten Einnahmen durch dieses System vermutet. Alle Einnahmen und Ausgaben werden am Jahresende verbucht. Die Anschaffungskosten entstehen am Ende des Jahres 0. 
 
@@ -124,9 +124,7 @@ ___
 | 4    | 14.000 €  | 4.000 €   |
 
 $$ -26.000 + \frac{7.000}{q} + \frac{7.000}{q^2} + \frac{5.000}{q^3} + \frac{10.000}{q^4} = 0 $$
-NLöse: $q = 1.04305$ ⇒ $i = 4,3\%$
-$4,3\%>2,75\%$ ⇒ Die Investition ist sinnvoll.
-
+Mit NLöse: $$ q = 1,04305 \Rightarrow i = 4,3\% $$ Da \( 4,3\% > 2,75\% \), ist die Investition vorteilhaft.
 
 
 
