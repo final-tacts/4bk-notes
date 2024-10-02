@@ -1,4 +1,4 @@
-Test Ist der Zinssatz einer Investition, zu dem das investierte Kapital \( K_0 \) denselben Endwert erbringt, wie die wieder verzinsten Rückflüsse. 
+Ist der Zinssatz einer Investition, zu dem das investierte Kapital \( K_0 \) denselben Endwert erbringt, wie die wieder verzinsten Rückflüsse. 
 $$ 
 i_{\text{mod}} = \sqrt[n]{\frac{E_R}{K_0}} - 1 
 $$ $$ 
