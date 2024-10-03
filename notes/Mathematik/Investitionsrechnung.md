@@ -94,37 +94,3 @@ i = 5% ⇒ q = 1,05
 Der Kapitalwert (KW) der Investition berechnet sich wie folgt:
 
 _KW = -64.000 € + 10.000 € / 1,05 + 10.000 € / 1,05² + 10.000 € / 1,05³ + 10.000 € / 1,05⁴ + 40.000 € / 1,05⁵_ = **2.800,55 €**
-
-___
-Der interne Zinssatz einer Investition ist der Zinssatz, bei dem der Kapitalwert gleich 0 ist:
-
-$$
-Z_0 + \frac{Z_1}{q} + \frac{Z_2}{q^2} + \dots + \frac{Z_n}{q^n} = 0
-$$
-
-Der interne Zinssatz $i_intern$ ist:
-
-$$
-i_{\text{intern}} = q - 1
-$$
-___
-
-**Aufgabe**: Die Anschaffung einer Maschine mit 4 Jahren Nutzungsdauer führt voraussichtlich zu den in der Tabelle angeführten Einnahmen und Ausgaben.
-
-**a.** Berechne den internen Zinssatz dieser Investition.
-
-**b.** Beurteile, ob diese Investition bei einem aktuellen Marktzins von 2,75 % p.a. eine sinnvolle Geldanlage ist.
-
-| Jahr | Einnahmen | Ausgaben  |
-|------|-----------|-----------|
-| 0    | 0 €       | 26.000 €  |
-| 1    | 9.000 €   | 2.000 €   |
-| 2    | 9.000 €   | 2.000 €   |
-| 3    | 9.000 €   | 4.000 €   |
-| 4    | 14.000 €  | 4.000 €   |
-
-$$ -26.000 + \frac{7.000}{q} + \frac{7.000}{q^2} + \frac{5.000}{q^3} + \frac{10.000}{q^4} = 0 $$
-Mit NLöse: $$ q = 1,04305 \Rightarrow i = 4,3\% $$ Da \( 4,3\% > 2,75\% \), ist die Investition vorteilhaft.
-
-
-
