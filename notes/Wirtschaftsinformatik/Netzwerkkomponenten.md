@@ -71,3 +71,22 @@ ___
 - Range Extender empfängt und verstärkt WLAN-Signale
 - Access Point empfängt WLAN-Signal und gibt es im LAN weiter
 - Funktioniert in beide Richtungen
+___
+# Te-Comp Fragen
+## Netzwerkkomponenten identifizieren:
+
+> Modem: 3 Router: 2 Switch: 1 Access-Point: 5 Netzwerkkabel: 4
+
+## Komponente zum Anschließen von Notebooks über Netzwerkkabel an Position 1:
+
+> Switch
+
+## Drei Geräte, die in einem WLAN-Router stecken:
+
+> Router, Switch, Access-Point
+
+## Zusätzliche Komponente, um mehr Computer zu verkabeln, wenn alle Anschlüsse belegt sind:
+
+> Switch
+
+
