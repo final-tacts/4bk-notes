@@ -18,9 +18,9 @@ ___
 ### Bereich "Globalisierung"
 
 ___
-#### das Drei-Säulen-Modell der Nachhaltigkeit erläutern\
+#### das Drei-Säulen-Modell der Nachhaltigkeit erläutern
 
-Unternehmen, die den Stakeholder-Ansatz verfolgen, können ihre Grundsätze den drei Säulen der Nachhaltigkeit zuordnen.\
+Unternehmen, die den Stakeholder-Ansatz verfolgen, können ihre Grundsätze den drei Säulen der Nachhaltigkeit zuordnen.
 
 #### 1. Ökonomie (Profit)
 - Gewinn
@@ -51,14 +51,13 @@ ___
 **Österreich ist eine kleine, offene Volkswirtschaft.**\
 Das bedeutet:
 
-- **Klein**: Österreich hat nur etwa 8,8 Millionen Einwohner. Im Vergleich dazu ist Deutschland zehnmal größer, mit rund 83 Millionen Einwohnern.
-- **Offen**: Österreich tauscht Waren und Dienstleistungen mit vielen anderen Ländern aus.\
+- **Klein**: Österreich hat nur etwa 8,8 Millionen Einwohner. Im Vergleich dazu ist Deutschland zehnmal größer, mit rund 83 Millionen Einwohnern.\
+- **Offen**: Österreich tauscht Waren und Dienstleistungen mit vielen anderen Ländern aus.
 
 ### Zwei wichtige Faktoren:
 
 1. **Beschränkte Ressourcen**  
-    Kleine Länder wie Österreich haben oft nicht genug Rohstoffe. Deshalb müssen sie Waren aus anderen Ländern importieren. Ein Beispiel ist, dass Österreich Orangen importiert, weil sie dort nicht wachsen.\
-
+    Kleine Länder wie Österreich haben oft nicht genug Rohstoffe. Deshalb müssen sie Waren aus anderen Ländern importieren. Ein Beispiel ist, dass Österreich Orangen importiert, weil sie dort nicht wachsen.
 2. **Beschränkter Absatzmarkt**  
     Der heimische Markt ist klein, daher müssen österreichische Unternehmen ihre Produkte auch in andere Länder exportieren, um mehr Kunden zu erreichen.\
 
@@ -121,11 +120,11 @@ ___
 ___
 #### die drei Wirtschaftssektoren analysieren
 
-| Sektor              | Beschreibung                                       | Beispiel                                                         |
-|---------------------|----------------------------------------------------|------------------------------------------------------------------|
-| **Primärer Sektor**  | Erzeugnisse aus dem Boden (Landwirtschaft, Bergbau)| Landwirtschaftliche Betriebe bauen Rohstoffe wie Weizen an       |
-| **Sekundärer Sektor**| Verarbeitung von Rohstoffen (Industrie, Bauwesen)  | Industrie produziert Kunststoff aus Rohstoffen für Plastikflaschen|
-| **Tertiärer Sektor** | Dienstleistungen (Handel, Tourismus, Transport)    | Ein Friseurbesuch ist ein persönlicher Dienst                    |
+| Sektor                | Beschreibung                                        | Beispiel                                                           |
+| --------------------- | --------------------------------------------------- | ------------------------------------------------------------------ |
+| **Primärer Sektor**   | Erzeugnisse aus dem Boden (Landwirtschaft, Bergbau) | Landwirtschaftliche Betriebe bauen Rohstoffe wie Weizen an         |
+| **Sekundärer Sektor** | Verarbeitung von Rohstoffen (Industrie, Bauwesen)   | Industrie produziert Kunststoff aus Rohstoffen für Plastikflaschen |
+| **Tertiärer Sektor**  | Dienstleistungen (Handel, Tourismus, Transport)     | Ein Friseurbesuch ist ein persönlicher Dienst                      |
 ___
 #### die Bedeutung von Dienstleistungen für die österreichische Wirtschaft einordnen
 
