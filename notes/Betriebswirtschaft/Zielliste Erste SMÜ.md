@@ -51,15 +51,15 @@ ___
 **Österreich ist eine kleine, offene Volkswirtschaft.**\
 Das bedeutet:
 
-- **Klein**: Österreich hat nur etwa 8,8 Millionen Einwohner. Im Vergleich dazu ist Deutschland zehnmal größer, mit rund 83 Millionen Einwohnern.\
+- **Klein**: Österreich hat nur etwa 8,8 Millionen Einwohner. Im Vergleich dazu ist Deutschland zehnmal größer, mit rund 83 Millionen Einwohnern.
 - **Offen**: Österreich tauscht Waren und Dienstleistungen mit vielen anderen Ländern aus.
 
 ### Zwei wichtige Faktoren:
 
-1. **Beschränkte Ressourcen**  
+1. **Beschränkte Ressourcen**
     Kleine Länder wie Österreich haben oft nicht genug Rohstoffe. Deshalb müssen sie Waren aus anderen Ländern importieren. Ein Beispiel ist, dass Österreich Orangen importiert, weil sie dort nicht wachsen.
 2. **Beschränkter Absatzmarkt**  
-    Der heimische Markt ist klein, daher müssen österreichische Unternehmen ihre Produkte auch in andere Länder exportieren, um mehr Kunden zu erreichen.\
+    Der heimische Markt ist klein, daher müssen österreichische Unternehmen ihre Produkte auch in andere Länder exportieren, um mehr Kunden zu erreichen.
 
 ___
 #### Risiken von Auslandsgeschäften einordnen
@@ -141,7 +141,7 @@ Der Dienstleistungssektor spielt heute die größte Rolle in der österreichisch
 ___
 #### Dienstleistungsmarketing erläutern
 
-Dienstleistungsunternehmen nutzen 7 Marketing-Ps, um ihre Angebote optimal zu vermarkten und gegenüber der Konkurrenz im Vorteil zu sein.\
+Dienstleistungsunternehmen nutzen 7 Marketing-Ps, um ihre Angebote optimal zu vermarkten und gegenüber der Konkurrenz im Vorteil zu sein.
 
 #### Die 7 Marketing-Ps:
 1. **Product (Produkt)**: 
