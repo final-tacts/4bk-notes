@@ -46,5 +46,5 @@ Die am wenigsten umgesetzten Ps sind People, Process und Product:\
 **People (Personalpolitik):** Der Schulungsleiter war unprofessionell—zu spät, unvorbereitet und konnte Fragen nicht beantworten.\
 
 **Process (Prozesspolitik):** Der Schulungsablauf war nicht kundenorientiert; er ging nicht auf die Wünsche der Teilnehmer ein.\
-\
+
 **Product (Leistungspolitik):** Die Schulung erfüllte nicht die Erwartungen; das Angebot war nicht bedarfsgerecht auf die Bedürfnisse der Teilnehmer abgestimmt.\
