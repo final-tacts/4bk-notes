@@ -7,7 +7,7 @@ Bei Dienstleistungen sind die Kunden an der Erstellung beteiligt. Sie bringen si
 Dienstleistungsbetriebe müssen ihr Angebot so gestalten, dass es den Bedürfnissen der Kunden entspricht. Die klassischen 4 Ps des Marketings werden um 3 weitere Bereiche erweitert, sodass es 7 Ps im Dienstleistungsmarketing gibt.\
 \
 **Die 7 Ps des Dienstleistungsmarketings**\
-\
+
 
 | P                     | Erklärung und Beispiele                                                                                                                                                                                                                                                    |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,7 +23,7 @@ ___
 > **Praxisbeispiel: Dienstleistungsmarketing bei FITINN**
 
 FITINN bietet Fitnessdienstleistungen in Studios in ganz Österreich an. Sie erfüllen die Bedürfnisse der Kunden mit verschiedenen Fitnessprogrammen, Personal Trainern und individuellen Trainingsplänen.\
-\
+
 
 |P|Umsetzung bei FITINN|
 |---|---|
